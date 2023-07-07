@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OOP_LAB_1_WinForms</name>
+    </assembly>
+    <members>
+        <member name="T:OOP_LAB_1_WinForms.Form1">
+            <summary>
+            ппп
+            </summary>
+        </member>
+        <member name="F:OOP_LAB_1_WinForms.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:OOP_LAB_1_WinForms.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:OOP_LAB_1_WinForms.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:OOP_LAB_1_WinForms.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:OOP_LAB_1_WinForms.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:OOP_LAB_1_WinForms.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:OOP_LAB_1_WinForms.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:OOP_LAB_1_WinForms.Properties.Resources.ResGoodbye">
+            <summary>
+              Ищет локализованную строку, похожую на До свидания.
+            </summary>
+        </member>
+        <member name="P:OOP_LAB_1_WinForms.Properties.Resources.ResHello">
+            <summary>
+              Ищет локализованную строку, похожую на Добрый день.
+            </summary>
+        </member>
+    </members>
+</doc>
